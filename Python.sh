@@ -45,7 +45,6 @@ esac
 case $var in 
 "4")
 python script.py tcp
-exit 
 esac
 case $var in 
 "5")
